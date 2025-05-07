@@ -15,7 +15,7 @@ This project analyzes Indian Premier League (IPL) data using Python, pandas, and
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
+
 
 ## Getting Started
 1. Clone this repository
